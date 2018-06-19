@@ -1,7 +1,7 @@
 # usconstitution
 Mobile friendly U.S. Constitution
 
-This is a sample mobile app that I built on top of Framework7 providing the U.S. Constitution.
+This is a simple mobile app built on top of Framework7 providing the U.S. Constitution.
 
 To view, clone/download and open index.html. 
 
